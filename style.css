@@ -22,22 +22,22 @@ background: #ebebeb;
 
 section{
 display: block;
-float: right;
-height: 270px:
-width: 500px
+float: left;
+height: 300px;
+width: 50%; 
 }
 
 aside{
-display:
-float:
-height:
-width:
+display:block;
+float: right;
+height: 300px;
+width: 40%;
 }
 
 article{
-padding: 10px;
-color: #777777;
-background: #ebebeb;
+padding: 8px;
+color: #ebebeb;
+background: #7777;
 }
 
 .clear{
